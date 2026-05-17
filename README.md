@@ -92,4 +92,4 @@ visual y organizada.
 ## 1️⃣ Enlace de aplicativo
 
 ```bash
-link 
+link https://miaplicacioncaso3-af.streamlit.app/
